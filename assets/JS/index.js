@@ -2,4 +2,6 @@
 
 const functions = require('./functions');
 
-const os = require('os');
+const react = require('react');
+
+console.log(react);
