@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "react": "^18.0.0",
+    "shelljs": "^0.8.5",
     "yup": "^0.32.11"
   }
 }
